@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "deepai": "^1.0.23",
+    "dotenv": "^16.3.1",
+    "exports": "^0.0.1",
+    "express": "^4.18.2",
+    "firebase": "^10.5.0",
+    "firebase-admin": "^11.11.0",
+    "google-tts-api": "^2.0.2",
+    "hbs": "^4.2.0",
+    "https": "^1.0.0",
+    "jspdf": "^2.5.1",
+    "openai": "^4.12.3",
+    "pdfkit": "^0.13.0",
+    "request": "^2.88.2",
+    "say": "^0.16.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3"
+  }
+}
